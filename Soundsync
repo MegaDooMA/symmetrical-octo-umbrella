@@ -27,3 +27,15 @@ emcc -s INITIAL_MEMORY=10MB \
 -s EXPORTED_FUNCTIONS="['_malloc', '_free', '_opus_decoder_create','_opus_decode_float','_opus_decoder_destroy','_opus_encoder_create','_opus_encoder_destroy','_opus_encode','_opus_encode_float','_opus_strerror']" \
 -s ENVIRONMENT=node,web \
 ./opus_vendor/.libs/libopus.a
+
+
+Attributions
+Speaker by Mestman from the Noun Project
+Slashed zero by Rflor from the Noun Project
+web browser by Iconstock from the Noun Project
+Computer by iconcheese from the Noun Project
+AirPlay by Michiel Willemsen from the Noun Project
+Icons made by Smashicons from www.flaticon.com
+Icons made by Freepik from www.flaticon.com
+Icons made by smalllikeart from www.flaticon.com
+Raspberry Pi by DesignBite from the Noun Project
